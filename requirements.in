@@ -1,0 +1,5 @@
+diskcache
+openai
+python-dotenv
+requests
+black
